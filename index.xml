@@ -23,14 +23,5 @@ I am also an active Open Source Contributor. Some of my contributions and projec
  SNARE: Super Next Generation Advanced Reactive Honeypot. TANNER: Classification and Analysis tool for the Honeypot. Mitmproxy: An interactive TLS capable intercepting HTTP proxy Decentalized Blockchain network fetauring a proof-of-work, consensus algorithm and a broadcasting system for the network nodes (private as of now!</description>
     </item>
     
-    <item>
-      <title>Ropemporium Ret2csu</title>
-      <link>https://rjt-gupta.github.io/posts/1/01/ropemporium-ret2csu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rjt-gupta.github.io/posts/1/01/ropemporium-ret2csu/</guid>
-      <description>from pwn import * # Set up pwntools for the correct architecture exe = context.binary = ELF(&amp;#39;ret2csu&amp;#39;) # Many built-in settings can be controlled on the command-line and show up # in &amp;#34;args&amp;#34;. For example, to dump all data sent/received, and disable ASLR # for all created processes... # ./exploit.py DEBUG NOASLR def start(argv=[], *a, **kw): &amp;#39;&amp;#39;&amp;#39;Start the exploit against the target.&amp;#39;&amp;#39;&amp;#39; if args.GDB: return gdb.debug([exe.path] + argv, gdbscript=gdbscript, *a, **kw) else: return process([exe.</description>
-    </item>
-    
   </channel>
 </rss>
